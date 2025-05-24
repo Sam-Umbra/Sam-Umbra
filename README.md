@@ -1,5 +1,5 @@
 # 📝Sobre Mim / About Me:
-🇧🇷<br>Estudante de desenvolvimento de sistemas<br>Aspirante a astronomia/astrofisica🚀<br>Estudando programação Back-End e Cybersegurança👨‍💻<br><br>🇺🇸<br>Sistem Developer Student<br>Astronomy/Astrophysics Aspirer🚀<br>Studying Back-End programation and Cybersecurity👨‍💻
+🇧🇷<br>Estudante de desenvolvimento de sistemas<br>Aspirante a astronomia/astrofisica🚀<br>Estudando React e Typescript<br><br>🇺🇸<br>Sistem Developer Student<br>Astronomy/Astrophysics Aspirer🚀<br>Studying React and Typescript
 
 
 ## 🌐 Socials:
