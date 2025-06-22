@@ -1,42 +1,84 @@
-# 📝Sobre Mim / About Me:
-🇧🇷<br>Estudante de desenvolvimento de sistemas<br>Aspirante a astronomia/astrofisica🚀<br>Estudando React e Typescript<br><br>🇺🇸<br>Sistem Developer Student<br>Astronomy/Astrophysics Aspirer🚀<br>Studying React and Typescript
+# 👋 Olá! Eu sou o Sam Umbra / Hi! I'm Sam Umbra
 
+🇧🇷 Estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia, astronomia e desafios lógicos. Atualmente focado em desenvolvimento **Front-end com React/TypeScript** e **Back-end com Java e Spring Boot**.
 
-## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sam_umbra) 
+🇺🇸 System Development student passionate about technology, astronomy, and logical challenges. Currently focused on **Front-end with React/TypeScript** and **Back-end with Java and Spring Boot**.
 
-# 💻 Tech Stack:
-<h2>Linguagens:</h2>
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-<h3>Frameworks:</h3>
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<h2>Banco de Dados:</h2>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<h2>Ferramentas:</h2>
-
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-
-<h2>Serviços em Nuvem:</h2>
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<h2>Auxiliares:</h2>
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sam-Umbra&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Umbra&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Umbra&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+🎯 Busco oportunidades como freelancer ou desenvolvedor júnior para aplicar e expandir meus conhecimentos em projetos reais.  
+🎯 Open to freelance or junior developer opportunities to apply and expand my skills through real-world projects.
 
 ---
+
+## 🚀 Projetos / Projects
+
+- 🎧 [**spotify_clone**](https://github.com/sam-umbra/spotify_clone)  
+  🇧🇷 Clone visual do Spotify com React, simulando a interface original e navegação por playlists.  
+  🇺🇸 Visual clone of Spotify using React, simulating the original UI and playlist navigation.
+
+- 🍔 [**FastAndFurious**](https://github.com/sam-umbra/FastAndFurious)  
+  🇧🇷 API REST em Java para controle de pedidos de totem de fast food, usando Spring Boot.  
+  🇺🇸 REST API in Java for fast food totem order control, using Spring Boot.
+
+- 🧩 [**React-Projects**](https://github.com/sam-umbra/React-Projects)  
+  🇧🇷 Vários projetos de React do curso da Scrimba, incluindo jogos, UI dinâmicas e hooks personalizados.  
+  🇺🇸 Multiple React projects from the Scrimba course, including games, dynamic UIs, and custom hooks.
+
+- 🔐 [**secure-jwt-site**](https://github.com/sam-umbra/secure-jwt-site)  
+  🇧🇷 Aplicação React que consome API com autenticação via JWT. Inclui login, rotas privadas e armazenamento de token.  
+  🇺🇸 React app consuming a JWT-secured API. Includes login, private routes, and token storage.
+
+- 🛡️ [**SpringBootSecurityJWT**](https://github.com/sam-umbra/SpringBootSecurityJWT)  
+  🇧🇷 API de autenticação completa com Java, Spring Boot, segurança via JWT e controle de usuários e roles.  
+  🇺🇸 Full authentication API using Java, Spring Boot, JWT security, and role-based user management.
+
+---
+
+## 🌐 Contato / Contact
+
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sam_umbra)
+
+---
+
+## 💻 Tech Stack
+
+### Linguagens
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas e Auxiliares
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![GithubPages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+
+### Cloud
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sam-Umbra&theme=react&hide_border=true&include_all_commits=true&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Umbra&theme=react&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Umbra&theme=react&hide_border=true&layout=compact)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Sam-Umbra&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Powered by GPRM (https://gprm.itsvg.in) -->
