@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou o Sam Umbra / Hi! I'm Sam Umbra
 
 🇧🇷 Estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia, astronomia e desafios lógicos. Atualmente focado em desenvolvimento **Front-end com React/TypeScript** e **Back-end com Java e Spring Boot**.
+🎯 Busco oportunidades como freelancer ou desenvolvedor júnior para aplicar e expandir meus conhecimentos em projetos reais. 
 
 🇺🇸 System Development student passionate about technology, astronomy, and logical challenges. Currently focused on **Front-end with React/TypeScript** and **Back-end with Java and Spring Boot**.
-
-🎯 Busco oportunidades como freelancer ou desenvolvedor júnior para aplicar e expandir meus conhecimentos em projetos reais.  
+ 
 🎯 Open to freelance or junior developer opportunities to apply and expand my skills through real-world projects.
 
 ---
