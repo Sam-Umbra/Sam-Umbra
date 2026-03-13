@@ -63,18 +63,11 @@ System Development student focused on building scalable backends and fluid user 
 ---
 
 ## 📊 Analytics
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sam-Umbra&theme=react&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Umbra&theme=react&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Umbra&theme=react&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sam-Umbra&theme=react&hide_border=true&include_all_commits=true&count_private=fals" / >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Umbra&theme=react&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Umbra&theme=react&hide_border=true&layout=compact" />
+</p>
 
 ---
 
