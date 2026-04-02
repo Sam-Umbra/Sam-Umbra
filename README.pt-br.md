@@ -82,7 +82,6 @@ Estudante de Desenvolvimento de Sistemas focado em criar backends escaláveis e 
 ---
 
 ## 🌐 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rodrigues-euzebio-de-souza)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512981532884)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sam.umbra)
-
-[![](https://visitcount.itsvg.in/api?id=Sam-Umbra&icon=1&color=0)](https://visitcount.itsvg.in)
