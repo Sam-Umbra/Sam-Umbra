@@ -24,7 +24,7 @@ System Development student focused on building scalable backends and fluid user 
 ## 🚀 Other Projects
 
 * 🛡️ [**SpringBootSecurityJWT**](https://github.com/sam-umbra/SpringBootSecurityJWT) – Authentication Java API with JWT tokens.
-* 🎧 [**Spotify Clone**](https://github.com/sam-umbra/spotify_clone) – UI Replica for react training.
+* ☄️ [**Space-Radar**](https://github.com/sam-umbra/space-radar) – Java/Spring API that monitors Near-Earth Objects, classifies collision risk via ML, and broadcasts alerts in real-time.
 * 🍔 [**FastAndFurious**](https://github.com/sam-umbra/FastAndFurious) – Java/Spring API for self-service order management.
 * 🧩 [**React-Projects**](https://github.com/sam-umbra/React-Projects) – Deep dive into Custom Hooks and UI patterns.
 * 🔐 [**Secure-JWT-Site**](https://github.com/sam-umbra/secure-jwt-site) – Secure React frontend with private route guarding.
