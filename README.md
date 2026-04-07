@@ -66,9 +66,18 @@ System Development student focused on building scalable backends and fluid user 
 ---
 
 ## 📊 Analytics
-![Top Languages](https://vani-stats.vercel.app/api?username=Sam-Umbra&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sam-umbra&theme=tokyonight&border=4EEBBA)](https://git.io/streak-stats)
-![Sam Umbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-umbra&show_icons=true&theme=tokyonight)
+<table align="center" border="0">
+  <tr>
+    <td align="center" border="0">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sam-Umbra&theme=react&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Umbra&theme=react&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center" valign="middle" border="0">
+      <img src="https://vani-stats.vercel.app/api?username=Sam-Umbra&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
