@@ -74,7 +74,7 @@ Estudante de Desenvolvimento de Sistemas focado em criar backends escaláveis e 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Umbra&theme=react&hide_border=true" alt="GitHub Streak" />
     </td>
     <td align="center" valign="middle" border="0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Umbra&theme=react&hide_border=true&layout=compact" alt="Top Languages" />
+      <img src="https://vani-stats.vercel.app/api?username=Sam-Umbra&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
