@@ -7,7 +7,7 @@ Estudante de Desenvolvimento de Sistemas focado em construir backends escalávei
 
 ---
 
-## 🏆 Projeto em Destaque (TCC)
+## Projeto em Destaque (TCC)
 
 ### [Ikommercy API](https://github.com/Sam-Umbra/dropship-final-project)
 > **Motor de Backend para Dropshipping Moderno**
@@ -23,11 +23,11 @@ Estudante de Desenvolvimento de Sistemas focado em construir backends escalávei
 
 ## 🚀 Outros Projetos
 
-* 🛡️ [**SpringBootSecurityJWT**](https://github.com/sam-umbra/SpringBootSecurityJWT) – API Java de autenticação com tokens JWT.
-* ☄️ [**Space-Radar**](https://github.com/sam-umbra/space-radar) – API Java/Spring que monitora Objetos Próximos à Terra, classifica risco de colisão via ML e transmite alertas em tempo real.
-* 🍔 [**FastAndFurious**](https://github.com/sam-umbra/FastAndFurious) – API Java/Spring para gerenciamento de pedidos self-service.
-* 🧩 [**React-Projects**](https://github.com/sam-umbra/React-Projects) – Aprofundamento em Custom Hooks e padrões de UI.
-* 🔐 [**Secure-JWT-Site**](https://github.com/sam-umbra/secure-jwt-site) – Frontend React seguro com proteção de rotas privadas.
+*  [**SpringBootSecurityJWT**](https://github.com/sam-umbra/SpringBootSecurityJWT) – API Java de autenticação com tokens JWT.
+*  [**Space-Radar**](https://github.com/sam-umbra/space-radar) – API Java/Spring que monitora Objetos Próximos à Terra, classifica risco de colisão via ML e transmite alertas em tempo real.
+*  [**FastAndFurious**](https://github.com/sam-umbra/FastAndFurious) – API Java/Spring para gerenciamento de pedidos self-service.
+*  [**React-Projects**](https://github.com/sam-umbra/React-Projects) – Aprofundamento em Custom Hooks e padrões de UI.
+*  [**Secure-JWT-Site**](https://github.com/sam-umbra/secure-jwt-site) – Frontend React seguro com proteção de rotas privadas.
 
 ---
 
